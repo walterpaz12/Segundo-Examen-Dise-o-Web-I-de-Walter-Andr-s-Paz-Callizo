@@ -183,4 +183,35 @@ header{
 	font-style: italic;
 	font-size: 20px;
 	color: #8A8A8A;
+	text-align: center;
+}
+
+#testimonios{
+	text-align: center;
+	font-size: 70px;
+	
+}
+
+#testimonios h4{
+	font-style: italic;
+	font-size: 20px;
+	color: #8A8A8A;
+	text-align: center;
+	font-family: 'Monserrat', sans-serif;
+	
+text-transform: uppercase;
+	
+}
+
+.fa-certificate{
+	color: #FFED00;
+	
+	
+}
+
+#footer{
+	
+	
+	background-color: #1A1717;
+	padding: 50px;
 }
