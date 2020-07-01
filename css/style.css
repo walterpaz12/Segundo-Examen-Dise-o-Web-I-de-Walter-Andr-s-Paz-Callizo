@@ -3,12 +3,17 @@ h2{
 	color: #000;
 }
 
+h4{
+	font-family: 'Monserrat', sans-serif;
+	color: #000;
+}
 
 
 body{
 	font-size: Segoe UI;
 	font-size: 15px;
 	color: #777;
+	font-family: 'Monserrat', sans-serif;
 }
 header{
 	position: relative;
@@ -212,6 +217,10 @@ text-transform: uppercase;
 #footer{
 	
 	
-	background-color: #1A1717;
-	padding: 50px;
+	position: relative;
+	background-color: #323131;
+	width: 100%;
+	top:0;
+	padding: 10px;
 }
+
